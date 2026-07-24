@@ -30,7 +30,7 @@ A **Content-Based Movie Recommender System** built with Streamlit that suggests 
 
 ## 📁 Project Structure
 ```
-movie-recommender/
+movie-recommender-system/
 ├── app.py # Main Streamlit application (UI)
 ├── recommend.py # Recommendation functions
 ├── data_preprocessing.py # Data preparation script
