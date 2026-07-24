@@ -40,13 +40,7 @@ data/
 *.db
 *.sqlite
 
-# Processed Data(Generated Pickle Files)
-processed_data/
-*.pkl
-*.pickle
-*.h5
-*.hdf5
-*.keras
+
 
 # NLTK Data
 nltk_data/
